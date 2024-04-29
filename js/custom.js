@@ -601,7 +601,7 @@
 					label: 'Growth',
 					fill: true,
 					backgroundColor: "#def7e0",
-					borderColor: "#17c788",
+					borderColor: "#2E0062",
 					data: [0, 150, 450, 400, 480, 630, 580, 500, 530, 400, 430, 600, 400],
 				}
 			]

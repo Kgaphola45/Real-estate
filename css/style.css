@@ -229,7 +229,7 @@ label.radios {
 	top: 5px;
 }
 .color-box li.default {
-	background-color: #17c788
+	background-color: #2E0062
 }
 .color-box li.default:before {
 	background: #0d1432;
@@ -934,7 +934,7 @@ button, button:focus {
 .down-angle-white::before {
 	border-left: 15px solid transparent;
 	border-right: 40px solid transparent;
-	border-top: 35px solid #17c788;
+	border-top: 35px solid #2E0062;
 }
 .circle, .circle img {
 	border-radius: 50%;
